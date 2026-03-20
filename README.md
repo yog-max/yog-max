@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Yogi 👋
+
+💻 Full Stack Developer  
+⚛️ React.js | ☕ Spring Boot | 🗄️ MySQL  
+
+🚀 Projects:
+- Green Studio (Full Stack App)
+- Authentication System
+
+📫 Contact:
+Email: yogeshbonigala07@gmail.com
 
 <!--
 **yog-max/yog-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
