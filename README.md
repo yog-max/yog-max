@@ -10,6 +10,20 @@
 📫 Contact:
 Email: yogeshbonigala07@gmail.com
 
+Skills:
+Frontend:
+- React.js
+- HTML, CSS, Tailwind CSS
+
+Backend:
+- Java, Spring Boot
+
+Database:
+- MySQL
+
+Tools:
+- Git, GitHub, Postman
+
 <!--
 **yog-max/yog-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
