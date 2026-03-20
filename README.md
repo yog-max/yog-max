@@ -5,6 +5,7 @@
 
 🚀 Projects:
 - Green Studio (Full Stack App)
+- Fundraising platform (MERN stack)
 - Authentication System
 
 📫 Contact:
