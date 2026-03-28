@@ -12,6 +12,7 @@
 Email: yogeshbonigala07@gmail.com
 
 Skills:
+
 Frontend:
 - React.js
 - HTML, CSS, Tailwind CSS
